@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#Author: Zidane
+#Description: script to check system invention
 
 lscpu
 nproc
