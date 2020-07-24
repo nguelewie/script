@@ -1,8 +1,9 @@
 #!/bin/bash
 #Author: Zidane
+##Modified
 #Description: script to check system invention
 #Date: July, 2020
-
+##Commands##
 lscpu
 nproc
 cat /etc/*release
